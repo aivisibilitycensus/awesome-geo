@@ -159,3 +159,13 @@
   language: null
   type: skill
   maintained: true
+
+- name: geo-skills
+  repo: aivisibilitycensus/geo-skills
+  url: https://github.com/aivisibilitycensus/geo-skills
+  category: geo-toolkits
+  description: Seven open Claude skills for GEO measurement (AI crawler log check, answer log analyzer, content shape checker, schema parity, migration guard, question set builder, experiment kit)
+  stars: 10
+  language: Python
+  type: tool
+  maintained: true
